@@ -104,8 +104,9 @@ export default function PrivacyPolicy() {
         </h2>
         <p>
           If you have any questions or concerns about this Privacy Policy or the
-          data we collect, please contact us at
-          souhailbenlhachemi1999@gmail.com.
+          data we collect, please contact us at <br />
+          <a className="text-red-500 hover:text-sky-700 active:text-green-700" href="mailto:shrey.sadhukhan21@gmail.com.">shrey.sadhukhan21@gmial.com</a>
+          
         </p>
       </div>
 
